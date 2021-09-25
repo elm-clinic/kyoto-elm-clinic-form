@@ -965,3 +965,9 @@ input[type="submit"] {
 	/* opacity: 0; */
 	/* transform: translateY(100px); */
 }
+
+.open-time {
+  text-align: left;
+  font-size: 1.2rem;
+  margin-bottom: 0.3rem;
+}
